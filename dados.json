@@ -1,0 +1,43 @@
+{
+    "movimentacoes": [
+        {
+            "tipo": "despesa",
+            "descricao": "Compra no supermercado",
+            "categoria": "Alimentação",
+            "valor": 150.0,
+            "mes": "11/2026"
+        },
+        {
+            "tipo": "receita",
+            "descricao": "Salário",
+            "categoria": "Salário",
+            "valor": 3000.0,
+            "mes": "11/2026"
+        },
+        {
+            "tipo": "despesa",
+            "descricao": "internet",
+            "categoria": "Moradia",
+            "valor": 85.0,
+            "mes": "11/2026"
+        },
+        {
+            "tipo": "despesa",
+            "descricao": "gás",
+            "categoria": "Moradia",
+            "valor": 100.0,
+            "mes": "11/2026"
+        },
+        {
+            "tipo": "receita",
+            "descricao": "salário",
+            "categoria": "Outros",
+            "valor": 100.0,
+            "mes": "11/2026"
+        }
+    ],
+    "orcamentos": {
+        "11/2026": 0.5,
+        "10/2026": 10000.0
+    }
+}
